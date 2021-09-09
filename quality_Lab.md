@@ -13,3 +13,13 @@ However Respawn has done an excellent job in fixing or finding a solution for th
 Portability, For a while Apex was only played on PC, Xbox, and PS4 but, within this last year they came out with Apex for the Nintendo Switch and
 did a beta test for mobile. It is pretty cool that they did that and it made a bunch of people confused thinking about how it would work.
 #
+
+# Destiny 2
+I love the Destiny games first one was my favorite but, the second is still super fun. For this game the quality ill cover is going to be
+Reliability. This game is a big loot shooter which turns very grindy fast. Which is great because its supposed to be. I love running around 
+fighting bad guys and being rewarded for it, it also alows me to hone my skills which in turn lets me be a better player. This aspect of the game
+has never changed and I hope it won't, in my opinion thats exactly what made me fall in love with the game.
+#
+
+# Dying Light
+
