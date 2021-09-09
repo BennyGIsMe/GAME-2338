@@ -22,4 +22,8 @@ has never changed and I hope it won't, in my opinion thats exactly what made me 
 #
 
 # Dying Light
-
+Dying light is a unique game as it brings parkore into the zombie fighting world. You can slide under stuff, climb walls, buildings, and Jump huge
+gaps all while smashing in zombie heads. The quality factor ill talk about is usability, In dying light there is a ton of stuff you can do.
+If there weren't any tutorials to help you along you wouldn't know if what you were doing is right or if you were missing something. Dying lights
+tutorial is brilliant and really breaks things down. even when its done you can still go to the menu and look at it again.
+#
