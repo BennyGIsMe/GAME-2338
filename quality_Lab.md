@@ -11,4 +11,4 @@ title: Quality Lab
 * You have 15 minutes to discuss and 10 minutes to start and take your notes. Finish on your own time.
 #
 
-#Apex Legends
+# Apex Legends
