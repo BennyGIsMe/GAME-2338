@@ -1,16 +1,14 @@
-# Game Review for (GAME TITLE)
+# Game Review for Assassins Creed
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Assassin's Creed, https://store.ubi.com/us/assassins-creed-directors-cut-edition/575ffd8fa3be1633568b4cea.html?lang=en_US&lgw_code=11767-575ffd8fa3be1633568b4cea&ncid=2265-1367---1-pdsc-6-10-FY21_US_UBISOFT_EG_CONV_PFG_MULTI_EN_SmartShopping--17-2-7-0820-4----ID_92407-1----&maltcode=ubisoftstore_convst_pdsc_google_vg__STORE____&addinfo==https://ad.doubleclick.net/ddm/clk/483504262;290337673;j&gclid=Cj0KCQjwkIGKBhCxARIsAINMioLTiPqCKC5V1tJNlv3mKLQP36lOUaW8bxkoGhHohizQiJ2UqqAf0akaAhOdEALw_wcB
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+Games rated by me recieve 1 to 5 stars, this game will get :star2::star2::star2::star2:
 
 ## Summary
 
