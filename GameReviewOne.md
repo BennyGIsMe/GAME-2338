@@ -24,7 +24,7 @@ The coolest thing to me that you are able to do in game is "parkour". You can cl
 
 ## Additional Information
 
-Other Game Reviews on Assassin's Creed.
+Other Game Reviews on Assassin's Creed.    
 https://www.ign.com/articles/2007/11/13/assassins-creed-review
 https://www.gamespot.com/reviews/assassins-creed-review/1900-6182795/
 https://www.metacritic.com/game/xbox-360/assassins-creed
