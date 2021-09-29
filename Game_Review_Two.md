@@ -12,25 +12,25 @@ I rate games from 1 to 5 Moons, this game recieved :full_moon: :full_moon: :full
 
 ## Summary
 
-DOS2 is a game where everything you do from your character and class creation, to the interactions you have and actions you take effect the  
-story. At the begging of the game you start on a ship and find out that you have been captured, being taken to an island prison called Fort Joy.  
-While sailing to Fort Joy the ship is attacked by a kraken where you are saved by a voice who calls you Godwoken. This is when the story starts  
-progressing and you are able to explore, fight enemies, loot, and level up. You learn about the atrocities that the Divine Order lead by Alexander  
-and his Enforcer Dallis, Sourcerers on Fort Joy " all the slaves " are purged of their source turning them into mindless bodies for the Order to do  
-as they please. Once you escape the Island your journey of finding out what exactly Godwoken are and your purpose of becoming one starts.  
+DOS2 is a game where everything you do from your character and class creation, to the interactions you have and actions you take effect the
+story. At the begging of the game you start on a ship and find out that you have been captured, being taken to an island prison called Fort Joy. 
+While sailing to Fort Joy the ship is attacked by a kraken where you are saved by a voice who calls you Godwoken. This is when the story starts
+progressing and you are able to explore, fight enemies, loot, and level up. You learn about the atrocities that the Divine Order lead by Alexander
+and his Enforcer Dallis, Sourcerers on Fort Joy " all the slaves " are purged of their source turning them into mindless bodies for the Order to do
+as they please. Once you escape the Island your journey of finding out what exactly Godwoken are and your purpose of becoming one starts.
 
-In order to play a game you need to know what the controls are and what better way than a tutorial or guide to check that off the list. DOS2 handles  
-this very well by implementing pop ups to teach you things from movement, interactions with npcs and players, battle/fights, and character development.  
-When and where can this tutorial be found? Well the very first " level " also known as the tutorial deck, there is a lot to learn so make sure to pay  
-attention. Also if you ever forget how to do something you can always look it up in the menu there is a codex/manuel for stuff covered in the tutorial  
-and stuff you find out as you progess through the story. All locations in the game are located in the world of Rivellon this includes Fort joy, Reapers  
+In order to play a game you need to know what the controls are and what better way than a tutorial or guide to check that off the list. DOS2 handles
+this very well by implementing pop ups to teach you things from movement, interactions with npcs and players, battle/fights, and character development.
+When and where can this tutorial be found? Well the very first " level " also known as the tutorial deck, there is a lot to learn so make sure to pay
+attention. Also if you ever forget how to do something you can always look it up in the menu there is a codex/manuel for stuff covered in the tutorial
+and stuff you find out as you progess through the story. All locations in the game are located in the world of Rivellon this includes Fort joy, Reapers
 Coast, and Arx.
 
-The combat system in DOS2 is turn-based encouraging strategic and tacticle planning and decisions. You are alloted action points at the begging of each  
-" turn " and with those action points you are able to move you player or team around the map area. You can also attack, use spells, set traps, and use items.    
-Status effects are also a big deal, and the enviroment plays big into that. You can destroy oil barrels and have them leak, then set them on fire causing a  
-sea of flames that set enemies on fire for multiple turns. There is also " Saving throws " that allow you to try and cancel status effects but, this can also  
-stack against you. You "roll" a dice and depending on the number it can either help or casue you to die a gursome death. I can say from experience that combat  
+The combat system in DOS2 is turn-based encouraging strategic and tacticle planning and decisions. You are alloted action points at the begging of each
+" turn " and with those action points you are able to move you player or team around the map area. You can also attack, use spells, set traps, and use items.  
+Status effects are also a big deal, and the enviroment plays big into that. You can destroy oil barrels and have them leak, then set them on fire causing a
+sea of flames that set enemies on fire for multiple turns. There is also " Saving throws " that allow you to try and cancel status effects but, this can also
+stack against you. You "roll" a dice and depending on the number it can either help or casue you to die a gursome death. I can say from experience that combat
 in this game is challenging and takes a while to get used to.
 
 ## Final Thoughts
